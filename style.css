@@ -1,0 +1,27 @@
+.heading{
+ background-color: rgba(5, 51, 255, 0.4);
+ padding-bottom: 30px;
+}
+
+body {
+    font-family: 'Dancing Script', cursive;
+    background-color: rgba(20, 200, 255, 0.25);
+    color: white;
+}
+
+button {
+margin-top: 20px;
+font-size: 35px;
+}
+
+.footer{
+    background-color:rgba(5, 9, 255, 0.4) ;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    font-size: larger;
+    text-align: center;
+    line-height: 3;
+    text-shadow: -5px 5px 10px gray;
+    
+}
